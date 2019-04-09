@@ -1,0 +1,3 @@
+[submodule "numpy-using-socket"]
+	path = numpy-using-socket
+	url = git@github.com:ekbanasolutions/numpy-using-socket.git
